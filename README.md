@@ -5,7 +5,7 @@ This GitHub repository contains data visualizations created using Excel, focusin
 
 ## Visualizations
 1. **Sum of consumption by food category and country:**
-   - Excel charts illustrating the overall food consumption patterns, breaking down the supply by both food categories and countries.
+   - Excel bar chart illustrating the overall food consumption patterns, breaking down the supply by both food categories and countries.
 
 2. **Food Category Consumption in Armenia:**
    - Specific Excel visualizations highlighting the consumption of various food categories in Armenia, providing insights into dietary preferences.
