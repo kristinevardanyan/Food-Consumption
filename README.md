@@ -8,16 +8,16 @@ This GitHub repository contains data visualizations created using Excel, focusin
    - Excel bar chart illustrating the overall food consumption patterns, breaking down the supply by both food categories and countries.
 
 2. **Food Category Consumption in Armenia:**
-   - Specific Excel visualizations highlighting the consumption of various food categories in Armenia, providing insights into dietary preferences.
+   - Bar chart highlighting the consumption of various food categories in Armenia, providing insights into dietary preferences.
 
 3. **CO2 emission per country in the region:**
-   - Scatter plots created in Excel showcasing the CO2 emissions per person in each country, focusing on regional comparisons.
+   - Treemap created in Excel showcasing the CO2 emissions per person in each country, focusing on regional comparisons.
 
 4. **Top Consumed Food Categories Across the Globe:**
-   - Excel charts presenting the most consumed food categories globally, giving an overview of popular dietary choices.
+   - Excel Bar chart presenting the most consumed food categories globally, giving an overview of popular dietary choices.
 
 5. **Total Food Consumption vs. Total CO2 Emissions by Country:**
-   - Comparative Excel graphs demonstrating the relationship between a country's total food consumption and its corresponding CO2 emissions.
+   - Scatter Plot demonstrating the relationship between a country's total food consumption and its corresponding CO2 emissions.
 
 ## How to Use
 1. Download the Excel files from the repository.
