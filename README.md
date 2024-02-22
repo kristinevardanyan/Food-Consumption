@@ -18,6 +18,10 @@ This GitHub repository contains data visualizations created using Excel, focusin
 
 5. **Total Food Consumption vs. Total CO2 Emissions by Country:**
    - Scatter Plot demonstrating the relationship between a country's total food consumption and its corresponding CO2 emissions.
+     
+6. **CO2 emission from the food consumption around the world:**
+   - Map showing countries with high level of CO2 emission
+
 
 ## How to Use
 1. Download the Excel files from the repository.
