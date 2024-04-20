@@ -1,4 +1,7 @@
 # Food Consumption and CO2 Emissions Visualization with Excel
+<p align="center">
+  <img src="https://i.pinimg.com/564x/97/45/32/974532256735d36455be790c89c05d0f.jpg" alt="Food Consumption" width="400">
+</p>
 
 ## Overview
 This GitHub repository contains data visualizations created using Excel, focusing on the supply of food for consumption across various countries. The dataset includes key metrics such as Supply for Consumption (kg/person/year) and Kg CO2/person/year.
